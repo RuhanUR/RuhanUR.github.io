@@ -1,0 +1,14 @@
+Body {
+	
+background-color: black;	
+	
+	
+}	
+
+Body > h1:first-child{
+	
+font-family: 'Indie Flower', cursive;
+text-align: center;
+color: white;
+	
+}	
