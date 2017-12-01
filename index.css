@@ -1,15 +1,15 @@
 Body {
-	
-background-color: #e47571;	
-	
-	
-}	
+
+background-color: #e47571;
+
+
+}
 
 Body > h1:first-child{
-	
+
 font-family: 'Indie Flower', cursive;
 text-align: center;
 color: white;
 font-size: 50px;
-	
-}	
+
+}
