@@ -23,7 +23,7 @@ margin: none;
 
 }
 
-.Menu a:active, a:link{
+.Menu a:active, a:link,a{
 
 color:  White;
 border: 5px solid white;
