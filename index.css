@@ -18,11 +18,12 @@ font-size: 50px;
 
 background-color: black;
 height: 500px;
+margin: none;
 
 
 }
 
-.Menu a{
+.Menu a:active{
 
 color:  White;
 border: 5px solid white;
