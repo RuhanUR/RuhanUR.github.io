@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>RuhanUR.github.io</title>
+<meta property="og:title" content="RuhanUR.github.io">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://ruhanur.github.io/">
+<meta property="og:url" content="https://ruhanur.github.io/">
+<meta property="og:site_name" content="RuhanUR.github.io">
+<script type="application/ld+json">
+{"name":"RuhanUR.github.io","description":null,"author":null,"@type":"WebSite","url":"https://ruhanur.github.io/","image":null,"publisher":null,"headline":"RuhanUR.github.io","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link href="/assets/css/style.css?v=4f38a0b49163d5435a2ddc77322e9a81bd68339c" rel="stylesheet">
+  </head>
+
+</html>
